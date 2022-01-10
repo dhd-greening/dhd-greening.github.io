@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## DHd-AG Greening DH
 
-You can use the [editor on GitHub](https://github.com/dhd-greening/dhd-greening.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Kurzpräsentation / Short presentation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Die Arbeitsgruppe “Greening DH” befasst sich mit Fragen, die mit dem ökologischen Fußabdruck der Digital Humanities-Forschungsaktivität zusammenhängen. Es sollen sowohl praktische Aspekte berücksichtigt werden (greening toolkit) als auch die epistemologischen Fragen und Herausforderungen, vor welchen die Klimakrise die Community stellt.
 
-### Markdown
+The Greening DH task force of the Association for Digital Humanities in the German-speaking countries addresses the environmental footprint of DH research. It contributes to the conception of a DH “Greening toolkit” together with sister initiatives around the globe and engages in discussion and research on the epistemological challenges raised by the climate crisis for the DH community.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 
 
-```markdown
-Syntax highlighted code block
+Greening DH ist eine Arbeitsgruppe des Dachverbandes »Digital Humanities im deutschsprachigen Raum« (siehe [Präsentation der AG auf der DHd-Verbandsseite](https://dig-hum.de/ag-greening-dh)).
 
-# Header 1
-## Header 2
-### Header 3
+We are working in cooperation and coordinating with the Digital Humanities Climate Coalition (DHCC, [siehe Website](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).
 
-- Bulleted
-- List
+### Aktuelles / News
 
-1. Numbered
-2. List
+Soon to be announced, stay tuned!
 
-**Bold** and _Italic_ and `Code` text
+### Co-convenors
 
-[Link](url) and ![Image](src)
-```
+Anne Baillot, Torsten Roeder
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhd-greening/dhd-greening.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Join the mailing list and our Discord Server
