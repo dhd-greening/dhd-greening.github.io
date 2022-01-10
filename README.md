@@ -21,3 +21,6 @@ Soon to be announced, stay tuned!
 Anne Baillot, Torsten Roeder
 
 ### Join the mailing list and our Discord Server
+
+* [Discord Server dhd-greening](https://discord.gg/APsHmGWU5u)
+* DHd Mailing List
