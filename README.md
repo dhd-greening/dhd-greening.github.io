@@ -22,7 +22,7 @@ Wir arbeiten dran und halten Euch auf dem Laufenden!
 
 Anne Baillot, Torsten Roeder
 
-## Mailinglist & Discord Server
+## Mailinglist & Chat
 
 * [Discord Server »dhd-greening«](https://discord.gg/APsHmGWU5u)
-* Mailinglist DHd-AG »Greening DH« (in Vorbereitung / *in preparation*)
+* [Mailinglist DHd-AG »Greening DH«](http://lists.lists.digitalhumanities.org/mailman/admin/dhd-ag-greening-dh)
