@@ -20,7 +20,8 @@ Wir arbeiten dran und halten Euch auf dem Laufenden!
 
 ## Co-convenors
 
-Anne Baillot, Torsten Roeder
+Anne Baillot (anne.baillot[at]ens-lyon.fr)
+<br />Torsten Roeder (dh[at]torstenroeder.de)
 
 ## Mails & Chat
 
