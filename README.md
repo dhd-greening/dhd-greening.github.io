@@ -1,4 +1,4 @@
-<img style="float: right; width:30%" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
+<img style="float: right; width:25%" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
 
 ## Kurzvorstellung / Short presentation
 
