@@ -2,7 +2,7 @@
 
 ### Kurzvorstellung / Short presentation
 
-<img style="float: right;" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
+<img style="float: right; width:20%" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
 
 Die Arbeitsgruppe »Greening DH« befasst sich mit Fragen, die mit dem ökologischen Fußabdruck der Digital Humanities-Forschungsaktivität zusammenhängen. Es sollen sowohl praktische Aspekte berücksichtigt werden (»greening toolkit«) als auch die epistemologischen Fragen und Herausforderungen, vor welchen die Klimakrise die Community stellt.
 
