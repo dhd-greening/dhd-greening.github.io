@@ -24,5 +24,5 @@ Anne Baillot, Torsten Roeder
 
 ## Mailinglist & Chat
 
-* [Discord Server »dhd-greening«](https://discord.gg/APsHmGWU5u)
-* [Mailinglist DHd-AG »Greening DH«](http://lists.lists.digitalhumanities.org/mailman/admin/dhd-ag-greening-dh)
+* Discord Server »dhd-greening«: https://discord.gg/APsHmGWU5u
+* Mailinglist DHd-AG »Greening DH«: http://lists.lists.digitalhumanities.org/mailman/admin/dhd-ag-greening-dh
