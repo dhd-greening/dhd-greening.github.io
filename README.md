@@ -8,9 +8,9 @@ Die Arbeitsgruppe “Greening DH” befasst sich mit Fragen, die mit dem ökolog
 
 ### Netzwerk / Network
 
-Greening DH ist eine Arbeitsgruppe des Dachverbandes »Digital Humanities im deutschsprachigen Raum« (siehe dazu die [Präsentation der AG auf der DHd-Verbandsseite](https://dig-hum.de/ag-greening-dh)). Wir arbeiten außerdem in Kooperation und Koordination mit der »Digital Humanities Climate Coalition« ([DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).
+Greening DH ist eine Arbeitsgruppe des Verbands »Digital Humanities im deutschsprachigen Raum e.V.« (DHd, siehe dazu die [Präsentation der AG auf der DHd-Website](https://dig-hum.de/ag-greening-dh)). Wir arbeiten außerdem in Kooperation und Koordination mit der »Digital Humanities Climate Coalition« ([DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).
 
-*Greening DH is a working group of the German Digital Humanities association (DHd, see [presentation of the group at DHd website](https://dig-hum.de/ag-greening-dh)). We are working in cooperation and coordination with the »Digital Humanities Climate Coalition« ([DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).*
+*Greening DH is a working group of the German Digital Humanities association (DHd, see [presentation of the group at the DHd website](https://dig-hum.de/ag-greening-dh)). We are working in cooperation and coordination with the »Digital Humanities Climate Coalition« ([DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).*
 
 ### Aktuelles / News
 
