@@ -23,7 +23,7 @@ Wir arbeiten dran und halten Euch auf dem Laufenden!
 Anne Baillot (anne.baillot[at]ens-lyon.fr)
 <br />Torsten Roeder (dh[at]torstenroeder.de)
 
-## Mails & Chat
+## Mail & Chat
 
 Mailinglist:
 <br />[http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh](http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh)
