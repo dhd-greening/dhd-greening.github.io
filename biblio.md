@@ -1,5 +1,3 @@
-zotero biblio include
-
 <script>
 function includeHTML() {
 	var z, i, elmnt, file, xhttp;
@@ -29,6 +27,10 @@ function includeHTML() {
 	}
 }
 </script> 
+
+## Bibliographie
+
+[Zotero-Bibliographie](https://www.zotero.org/groups/4567259/)
 
 <div w3-include-html="https://api.zotero.org/groups/4567259/items?format=bib&style=geistes-und-kulturwissenschaften-heilmann"></div>
 
