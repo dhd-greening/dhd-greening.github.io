@@ -20,13 +20,16 @@ Wir arbeiten dran und halten Euch auf dem Laufenden!
 
 ## Co-convenors
 
-Anne Baillot (anne.baillot[at]ens-lyon.fr)
-<br />Torsten Roeder (dh[at]torstenroeder.de)
+Anne Baillot (anne.baillot[at]ens-lyon.fr)  
+Torsten Roeder (dh[at]torstenroeder.de)
 
-## Mail & Chat
+## Mail & Chat & Social Media
 
-Mailinglist:
-<br />[http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh](http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh)
+Mailinglist:  
+[http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh](http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh)
 
-Discord Server:
-<br />[https://discord.gg/APsHmGWU5u](https://discord.gg/APsHmGWU5u)
+Discord Server:  
+[https://discord.gg/APsHmGWU5u](https://discord.gg/APsHmGWU5u)
+
+Twitter-Hashtag: #GreeningDH  
+[https://twitter.com/search?q=%23GreeningDH](https://twitter.com/search?q=%23GreeningDH)
