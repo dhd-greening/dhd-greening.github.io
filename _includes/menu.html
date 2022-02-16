@@ -1,5 +1,13 @@
-<ul>
-  <li {% if page.url contains '/getting-started' %}class="active"{% endif %}><a href="readme">Home</a></li>
-  <li {% if page.url contains '/without-plugin' %}class="active"{% endif %}><a href="biblio">Biblio</a></li>
-  <li {% if page.url contains '/toolkit' %}class="active"{% endif %}><a href="toolkit">Toolkit</a></li>
+<style>
+  #menu {
+    list-style-type:none;
+  }
+  #menu li {
+    display:inline;
+  }
+</style>
+<ul id="menu">
+  <li><a href="readme">Home</a></li>
+  <li><a href="biblio">Biblio</a></li>
+  <li><a href="toolkit">Toolkit</a></li>
 </ul>
