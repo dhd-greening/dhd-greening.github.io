@@ -2,9 +2,10 @@
 
 ## Aktuelles / News
 
-Online Meeting 01: Mon 21.02.2022, 18:00h-19:30h CET
+Regular Meeting (online): Mon 21.02.2022, 18:00h-19:30h CET
 
-Online Meeting 02 (DHd): Thu 10.03.2022, 14:30h-15:30h CET
+DHd Conference Meeting (online): Thu 10.03.2022, 14:30h-15:30h CET  
+https://www.dhd2022.de/programm-events/10-03-donnerstag/
 
 (Zoom-Links via E-Mail/Discord)
 
