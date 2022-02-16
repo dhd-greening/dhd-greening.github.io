@@ -1,5 +1,13 @@
 <img style="float:right; width:25%; margin-left:1em; margin-bottom:0.5em" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
 
+## Aktuelles / News
+
+Online Meeting 01: Mon 21.02.2022, 18:00h-19:30h CET
+
+Online Meeting 02 (DHd): Thu 10.03.2022, 14:30h-15:30h CET
+
+(Zoom-Links via E-Mail/Discord)
+
 ## Kurzvorstellung / Short presentation
 
 Die Arbeitsgruppe »Greening DH« befasst sich mit Fragen, die mit dem ökologischen Fußabdruck von Digital-Humanities-Forschungsaktivitäten zusammenhängen. Es sollen sowohl praktische Aspekte berücksichtigt werden (»greening toolkit«) als auch die epistemologischen Fragen und Herausforderungen, vor welchen die Klimakrise die Community stellt.
@@ -11,12 +19,6 @@ Die Arbeitsgruppe »Greening DH« befasst sich mit Fragen, die mit dem ökologis
 Greening DH ist eine Arbeitsgruppe des Verbands »Digital Humanities im deutschsprachigen Raum e.V.« (DHd, siehe dazu die [Präsentation der AG auf der DHd-Website](https://dig-hum.de/ag-greening-dh)). Wir arbeiten außerdem in Kooperation und Koordination mit der »Digital Humanities Climate Coalition« ([DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).
 
 *Greening DH is a working group of the German Digital Humanities association (DHd, see [presentation of the group at the DHd website](https://dig-hum.de/ag-greening-dh)). We are working in cooperation and coordination with the »Digital Humanities Climate Coalition« ([DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)).*
-
-## Aktuelles / News
-
-Wir arbeiten dran und halten Euch auf dem Laufenden!
-
-*Soon to be announced, stay tuned!*
 
 ## Co-convenors
 
