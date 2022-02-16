@@ -1,6 +1,8 @@
 {% include menu.html %}
 
+<script>
 {% include w3-include-html.js %}
+</script>
 
 ## Bibliographie
 
