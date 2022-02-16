@@ -1,4 +1,4 @@
-{% include _menu.html %}
+{% include menu.html %}
 
 ## Greening DH Toolkit
 
