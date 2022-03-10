@@ -2,7 +2,7 @@
 
 ## Aktuelles / News
 
-DHd Conference Evening Meeting  (online): Thu 10.03.2022, 19:00 CET
+DHd Conference 2nd Meeting  (online): Thu 10.03.2022, 19:00 CET
 Gathertown, Sanssoucci (Poster Session), Springbrunnen
 
 ## Bisherige Treffen / Recent Meetings
