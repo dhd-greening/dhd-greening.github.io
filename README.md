@@ -2,12 +2,16 @@
 
 ## Aktuelles / News
 
-Regular Meeting (online): Mon 21.02.2022, 18:00h-19:30h CET
+DHd Conference Evening Meeting  (online): Thu 10.03.2022, 19:00 CET
+Gathertown, Sanssoucci (Poster Session), Springbrunnen
+
+## Bisherige Treffen / Recent Meetings
 
 DHd Conference Meeting (online): Thu 10.03.2022, 14:30h-15:30h CET  
 [https://www.dhd2022.de/programm-events/10-03-donnerstag/](https://www.dhd2022.de/programm-events/10-03-donnerstag/)
 
-(Zoom-Links via E-Mail/Discord)
+Regular Meeting (online): Mon 21.02.2022, 18:00h-19:30h CET
+(Zoom-Link via E-Mail/Discord)
 
 ## Kurzvorstellung / Short presentation
 
