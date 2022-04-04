@@ -2,16 +2,18 @@
 
 ## Aktuelles / News
 
-DHd Conference 2nd Meeting  (online): Thu 10.03.2022, 19:00 CET
-Gathertown, Sanssoucci (Poster Session), Springbrunnen
+Writing Sprint (online): Wed 06.04.2022, 15:00h-18:00h CET  
+(Zoom-Link via E-Mail/Discord)
 
 ## Bisherige Treffen / Recent Meetings
+
+DHd Conference 2nd Meeting  (online): Thu 10.03.2022, 19:00 CET  
+Gathertown, Sanssoucci (Poster Session), Springbrunnen
 
 DHd Conference Meeting (online): Thu 10.03.2022, 14:30h-15:30h CET  
 [https://www.dhd2022.de/programm-events/10-03-donnerstag/](https://www.dhd2022.de/programm-events/10-03-donnerstag/)
 
 Regular Meeting (online): Mon 21.02.2022, 18:00h-19:30h CET
-(Zoom-Link via E-Mail/Discord)
 
 ## Kurzvorstellung / Short presentation
 
