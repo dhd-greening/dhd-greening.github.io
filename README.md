@@ -2,10 +2,13 @@
 
 ## Aktuelles / News
 
-Writing Sprint (online): Wed 06.04.2022, 15:00h-18:00h CET  
-(Zoom-Link via E-Mail/Discord)
+DH 2022 (Tokyo): Paper #472, Session 6, Thu 28.07.2022, 7:00-8:30 CET  
+“Manifesting the Manifesto: Digital Humanities and the Climate Crisis”
 
 ## Bisherige Treffen / Recent Meetings
+
+Writing Sprint (online): Wed 06.04.2022, 15:00h-18:00h CET  
+(Zoom-Link via E-Mail/Discord)
 
 DHd Conference 2nd Meeting  (online): Thu 10.03.2022, 19:00 CET  
 Gathertown, Sanssoucci (Poster Session), Springbrunnen
