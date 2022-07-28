@@ -3,7 +3,8 @@
 ## Aktuelles / News
 
 DH 2022 (Tokyo): Paper #472, Session 6, Thu 28.07.2022, 7:00-8:30 CET  
-“Manifesting the Manifesto: Digital Humanities and the Climate Crisis”
+“Manifesting the Manifesto: Digital Humanities and the Climate Crisis”  
+[Slides](https://dhd-greening.github.io/slides/dh2022-manifesto.pdf)
 
 ## Bisherige Treffen / Recent Meetings
 
