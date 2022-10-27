@@ -45,7 +45,7 @@ Discord Server:
 [https://discord.gg/APsHmGWU5u](https://discord.gg/APsHmGWU5u)
 
 Twitter-Hashtag: #GreeningDH  
-[https://twitter.com/hashtag/greeningDH](https://twitter.com/hashtag/greeningDH)
+[https://twitter.com/hashtag/greeningDH?f=live](https://twitter.com/hashtag/greeningDH?f=live)
 
 ## Material
 
