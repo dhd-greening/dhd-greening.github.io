@@ -33,7 +33,7 @@ Greening DH ist eine Arbeitsgruppe des Verbands »Digital Humanities im deutschs
 
 ## Co-convenors
 
-Anne Baillot (anne.baillot[at]ens-lyon.fr)  
+Anne Baillot (anne.baillot[at]univ-lemans.fr)  
 Torsten Roeder (dh[at]torstenroeder.de)
 
 ## Mail & Chat & Social Media
