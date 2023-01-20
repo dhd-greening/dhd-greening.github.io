@@ -2,11 +2,15 @@
 
 ## Aktuelles / News
 
+[DHd 2023](https://dhd2023.dig-hum.de) (Belval/Trier): Workshop #12, Tue 14.03.2023, 8:30–17:30 CET  
+“Greening DH: individuelle Handlungsspielräume und institutionelle Perspektiven”  
+Universität Luxemburg, MSA-3.160
+
+## Bisherige Aktivitäten / Recent Activities
+
 DH 2022 (Tokyo): Paper #472, Session 6, Thu 28.07.2022, 7:00-8:30 CET  
 “Manifesting the Manifesto: Digital Humanities and the Climate Crisis”  
 [Slides](https://dhd-greening.github.io/slides/dh2022-manifesto.pdf)
-
-## Bisherige Treffen / Recent Meetings
 
 Writing Sprint (online): Wed 06.04.2022, 15:00h-18:00h CET  
 (Zoom-Link via E-Mail/Discord)
