@@ -6,7 +6,7 @@
 “Greening DH: individuelle Handlungsspielräume und institutionelle Perspektiven”  
 Universität Luxemburg, MSA-3.160
 
-AG-Treffen, Thu 16.03.2023, 15:30-17:00 CET
+AG-Treffen, Thu 16.03.2023, 15:30-17:00 CET  
 Universität Trier
 
 ## Bisherige Aktivitäten / Recent Activities
