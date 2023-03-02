@@ -6,6 +6,9 @@
 “Greening DH: individuelle Handlungsspielräume und institutionelle Perspektiven”  
 Universität Luxemburg, MSA-3.160
 
+AG-Treffen, Thu 16.03.2023, 15:30-17:00 CET
+Universität Trier
+
 ## Bisherige Aktivitäten / Recent Activities
 
 DH 2022 (Tokyo): Paper #472, Session 6, Thu 28.07.2022, 7:00-8:30 CET  
