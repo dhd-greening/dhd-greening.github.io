@@ -2,11 +2,12 @@
 
 ## Aktuelles / News
 
-[DHd 2023](https://dhd2023.dig-hum.de) (Belval/Trier): Workshop #12, Tue 14.03.2023, 8:30–17:30 CET  
-“Greening DH: individuelle Handlungsspielräume und institutionelle Perspektiven”  
+*Greening DH: individuelle Handlungsspielräume und institutionelle Perspektiven* (Workshop #12)  
+[DHd 2023](https://dhd2023.dig-hum.de), Tue 14.03.2023, 8:30–17:30 CET  
 Universität Luxemburg, MSA-3.160
 
-AG-Treffen, Thu 16.03.2023, 15:30-17:00 CET  
+*AG-Treffen*  
+[DHd 2023](https://dhd2023.dig-hum.de), Thu 16.03.2023, 15:30-17:00 CET  
 Universität Trier
 
 ## Bisherige Aktivitäten / Recent Activities
