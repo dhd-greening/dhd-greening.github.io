@@ -2,15 +2,23 @@
 
 ## Aktuelles / News
 
-*Greening DH: Individuelle Handlungsspielräume und institutionelle Perspektiven* (hybrid)  
-[DHd 2023](https://dhd2023.dig-hum.de): Workshop #12, Tue 14.03.2023, 8:30-17:30 CET  
-Universität Luxemburg, MSA-3.160
+*Open Greening Café* (online)
+Fri 24.03.2023, 9:00-10:00 CET
+(Zoom-Link via E-Mail/Discord)
+
+*Writing Sprint: GreeningDH Guidelines* (online)  
+Thu 06.04.2023, 9:30h-12:00h CET  
+(Zoom-Link via E-Mail/Discord)
+
+## Bisherige Aktivitäten / Recent Activities
 
 *DHd Conference Meeting* (hybrid)  
 [DHd 2023](https://dhd2023.dig-hum.de), Thu 16.03.2023, 15:30-17:00 CET  
 Universität Trier
 
-## Bisherige Aktivitäten / Recent Activities
+*Greening DH: Individuelle Handlungsspielräume und institutionelle Perspektiven* (hybrid)  
+[DHd 2023](https://dhd2023.dig-hum.de): Workshop #12, Tue 14.03.2023, 8:30-17:30 CET  
+Universität Luxemburg
 
 *Digital Humanities and the Climate Crisis* (online)  
 Part of Seminar [Channels of Digital Scholarship](https://mfo.web.ox.ac.uk/event/channels-digital-scholarship-seminar-0)  
