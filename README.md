@@ -72,6 +72,9 @@ Discord Server:
 Twitter-Hashtag: #GreeningDH  
 [https://twitter.com/hashtag/greeningDH?f=live](https://twitter.com/hashtag/greeningDH?f=live)
 
+Mastodon-Hashtag: #GreeningDH  
+[https://fedihum.org/tags/greeningdh](https://fedihum.org/tags/greeningdh)
+
 ## Material
 
 [Bibliographie](biblio.md)
