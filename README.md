@@ -74,4 +74,4 @@ Twitter-Hashtag: #GreeningDH
 
 ## Material
 
-[Bibliographie](biblio)
+[Bibliographie](biblio.md)
