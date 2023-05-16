@@ -12,9 +12,9 @@ Thu 06.04.2023, 9:30h-12:00h CET
 
 ## Bisherige Aktivitäten / Recent Activities
 
-*DHd Conference Meeting* (hybrid)  
-[DHd 2023](https://dhd2023.dig-hum.de), Thu 16.03.2023, 15:30-17:00 CET  
-Universität Trier
+*Wie 'nachhaltig' sind die Digital Humanities? Digitalisierung der Geisteswissenschaften im Kontext des Klimawandels* (hybrid)  
+Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2023/), Mon 15.05.2013, 17:00–18:00 CET  
+Universität Rostock, Rostocker Arbeitskreis Digital Humanities (RosDH)
 
 *Greening DH: Individuelle Handlungsspielräume und institutionelle Perspektiven* (hybrid)  
 [DHd 2023](https://dhd2023.dig-hum.de): Workshop #12, Tue 14.03.2023, 8:30-17:30 CET  
