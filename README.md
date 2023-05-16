@@ -3,11 +3,11 @@
 ## Aktuelles / News
 
 *Open Greening Café* (online)
-Fri 24.03.2023, 9:00-10:00 CET
+next meeting will be announced soon
 (Zoom-Link via E-Mail/Discord)
 
 *Writing Sprint: GreeningDH Guidelines* (online)  
-Thu 06.04.2023, 9:30h-12:00h CET  
+Wed 31.05.2023, 11:00 CET
 (Zoom-Link via E-Mail/Discord)
 
 ## Bisherige Aktivitäten / Recent Activities
