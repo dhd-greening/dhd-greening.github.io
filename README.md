@@ -18,7 +18,7 @@ Universität Rostock, Rostocker Arbeitskreis Digital Humanities (RosDH)
 
 *Greening DH: Individuelle Handlungsspielräume und institutionelle Perspektiven* (hybrid)  
 [DHd 2023](https://dhd2023.dig-hum.de): Workshop #12, Tue 14.03.2023, 8:30-17:30 CET  
-Universität Luxemburg
+Universität Luxemburg 
 [Podcast and blog post on Digitale Wissenschaft](https://digitale-wissenschaft.de/wissensblog/dhd2023-special-greeningdh/)
 
 *Digital Humanities and the Climate Crisis* (online)  
