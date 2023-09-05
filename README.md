@@ -13,7 +13,7 @@ Wed 31.05.2023, 11:00 CET
 ## Bisherige Aktivitäten / Recent Activities
 
 *Wie 'nachhaltig' sind die Digital Humanities? Digitalisierung der Geisteswissenschaften im Kontext des Klimawandels* (hybrid)  
-Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2023/), Mon 15.05.2013, 17:00–18:00 CET  
+Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2023/), Mon 15.05.2023, 17:00–18:00 CET  
 Universität Rostock, Rostocker Arbeitskreis Digital Humanities (RosDH)
 
 *Greening DH: Individuelle Handlungsspielräume und institutionelle Perspektiven* (hybrid)  
