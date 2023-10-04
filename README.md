@@ -3,14 +3,14 @@
 ## Aktuelles / News
 
 *Open Greening Café* (online)  
-next meeting will be announced soon
-(Zoom-Link via E-Mail/Discord)
+next meeting 6 October 2023, 9:00 to 10:00 am CET
+(Zoom-Link via E-Mail/Rocket Chat)
+
+## Bisherige Aktivitäten / Recent Activities
 
 *Writing Sprint: GreeningDH Guidelines* (online)  
 Wed 31.05.2023, 11:00 CET
 (Zoom-Link via E-Mail/Discord)
-
-## Bisherige Aktivitäten / Recent Activities
 
 *Wie 'nachhaltig' sind die Digital Humanities? Digitalisierung der Geisteswissenschaften im Kontext des Klimawandels* (hybrid)  
 Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2023/), Mon 15.05.2023, 17:00–18:00 CET  
@@ -66,8 +66,8 @@ Torsten Roeder (dh[at]torstenroeder.de)
 Mailinglist:  
 [http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh](http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh)
 
-Discord Server:  
-[https://discord.gg/APsHmGWU5u](https://discord.gg/APsHmGWU5u)
+Rocket Chat:  
+[https://chat.gwdg.de/invite/64agoD](https://chat.gwdg.de/invite/64agoD)
 
 Twitter-Hashtag: #GreeningDH  
 [https://twitter.com/hashtag/greeningDH?f=live](https://twitter.com/hashtag/greeningDH?f=live)
