@@ -2,9 +2,9 @@
 
 ## Aktuelles / News
 
-*[Workshop: Der Weg zum grünen Forschungsdatenmanagementplan](https://dhd2024.dig-hum.de/w2a-der-weg-zum-grunen-forschungsdatenmanagementplan/)*
-[DHd2024](https://dhd2024.dig-hum.de/)
-Workshop #2a, Tue 27 February 2024, 9:00-17:30 CET
+*[Workshop: Der Weg zum grünen Forschungsdatenmanagementplan](https://dhd2024.dig-hum.de/w2a-der-weg-zum-grunen-forschungsdatenmanagementplan/)* 
+[DHd2024](https://dhd2024.dig-hum.de/) 
+Workshop #2a, Tue 27 February 2024, 9:00-17:30 CET 
 University Passau
 
 ## Bisherige Aktivitäten / Recent Activities
