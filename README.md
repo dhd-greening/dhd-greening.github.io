@@ -2,11 +2,16 @@
 
 ## Aktuelles / News
 
+*[Workshop: Der Weg zum grünen Forschungsdatenmanagementplan](https://dhd2024.dig-hum.de/w2a-der-weg-zum-grunen-forschungsdatenmanagementplan/)*
+[DHd2024](https://dhd2024.dig-hum.de/)
+Workshop #2a, Tue 27 February 2024, 9:00-17:30 CET
+University Passau
+
+## Bisherige Aktivitäten / Recent Activities
+
 *Open Greening Café* (online)  
 next meeting 6 October 2023, 9:00 to 10:00 am CET
 (Zoom-Link via E-Mail/Rocket Chat)
-
-## Bisherige Aktivitäten / Recent Activities
 
 *Writing Sprint: GreeningDH Guidelines* (online)  
 Wed 31.05.2023, 11:00 CET
