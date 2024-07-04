@@ -7,27 +7,33 @@
 
 ## Bisherige Aktivitäten / Recent Activities
 
-*[Workshop: Der Weg zum grünen Forschungsdatenmanagementplan](https://dhd2024.dig-hum.de/w2a-der-weg-zum-grunen-forschungsdatenmanagementplan/)* 
-[DHd2024](https://dhd2024.dig-hum.de/) 
-Workshop #2a, Tue 27 February 2024, 9:00-17:30 CET 
-University Passau
+*Vortrag* (hybrid)  
+[Digital Methods Porn, oder: Warum die Welt ohne nachnutzbare Workflows nicht zu retten ist](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2024/n/digital-methods-porn-oder-warum-die-welt-ohne-nachnutzbare-workflows-nicht-zu-retten-ist-188645/)  
+Anne Baillot  
+Universität Rostock, Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2024/)  
+Thu 04.07.2024, 17:00-19:00 CET [Zoom-Link](https://uni-rostock-de.zoom.us/j/63047472241?pwd=MENUUFdma3Q3K0lGUDBzeWdEbGNPQT09)
+
+*Workshop*  
+[Der Weg zum grünen Forschungsdatenmanagementplan](https://dhd2024.dig-hum.de/w2a-der-weg-zum-grunen-forschungsdatenmanagementplan/)  
+Universität Passau, [DHd-Konferenz 2024](https://dhd2024.dig-hum.de/), Workshop #2a  
+Tue 27 February 2024, 9:00-17:30 CET
 
 *Open Greening Café* (online)  
 next meeting 6 October 2023, 9:00 to 10:00 am CET
-(Zoom-Link via E-Mail/Rocket Chat)
 
 *Writing Sprint: GreeningDH Guidelines* (online)  
 Wed 31.05.2023, 11:00 CET
-(Zoom-Link via E-Mail/Discord)
 
-*Wie 'nachhaltig' sind die Digital Humanities? Digitalisierung der Geisteswissenschaften im Kontext des Klimawandels* (hybrid)  
-Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2023/), Mon 15.05.2023, 17:00–18:00 CET  
-Universität Rostock, Rostocker Arbeitskreis Digital Humanities (RosDH)
+*Vortrag* (hybrid)  
+Wie 'nachhaltig' sind die Digital Humanities? Digitalisierung der Geisteswissenschaften im Kontext des Klimawandels  
+Torsten Roeder  
+Universität Rostock, Ringvorlesung [Digital Humanities im Fokus](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2023/)  
+Mon 15.05.2023, 17:00–19:00 CET  
 
 *Greening DH: Individuelle Handlungsspielräume und institutionelle Perspektiven* (hybrid)  
-[DHd 2023](https://dhd2023.dig-hum.de): Workshop #12, Tue 14.03.2023, 8:30-17:30 CET  
-Universität Luxemburg  
-[Podcast and blog post on Digitale Wissenschaft](https://digitale-wissenschaft.de/wissensblog/dhd2023-special-greeningdh/)
+[DHd 2023](https://dhd2023.dig-hum.de): Workshop #12  
+Universität Luxemburg, Tue 14.03.2023, 8:30-17:30 CET  
+[→ Podcast and blog post on Digitale Wissenschaft](https://digitale-wissenschaft.de/wissensblog/dhd2023-special-greeningdh/)
 
 *Digital Humanities and the Climate Crisis* (online)  
 Part of Seminar [Channels of Digital Scholarship](https://mfo.web.ox.ac.uk/event/channels-digital-scholarship-seminar-0)  
@@ -49,7 +55,7 @@ Gathertown, Sanssoucci (Poster Session), Springbrunnen
 Thu 10.03.2022, 14:30h-15:30h CET  
 [https://www.dhd2022.de/programm-events/10-03-donnerstag/](https://www.dhd2022.de/programm-events/10-03-donnerstag/)
 
-Regular Public Meeting (online)  
+*Regular Public Meeting* (online)  
 Mon 21.02.2022, 18:00h-19:30h CET
 
 ## Kurzvorstellung / Short presentation
