@@ -4,7 +4,7 @@
 
 *Writing Sprint zum grünen Forschungsdatenmanagementplan*   
 (Informationen und Zoom-Link via E-Mail/Rocket Chat)  
-Hier ist der aktuelle Stand der [Empfehlungen zum ressourcenschonenden Umgang mit Forschungsdaten](https://github.com/dhd-greening/dhd-greening.github.io/blob/main/rdm/empfehlungen_dmp.md) zu finden.  
+Hier findet sich der aktuelle Stand der [Empfehlungen zum ressourcenschonenden Umgang mit Forschungsdaten](rdm/empfehlungen_dmp.md).  
 
 ## Bisherige Aktivitäten / Recent Activities
 
