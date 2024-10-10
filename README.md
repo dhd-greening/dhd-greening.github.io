@@ -2,11 +2,15 @@
 
 ## Aktuelles / News
 
-*Writing Sprint zum grünen Forschungsdatenmanagementplan*   
-(Informationen und Zoom-Link via E-Mail/Rocket Chat)  
-Hier findet sich der aktuelle Stand der [Empfehlungen zum ressourcenschonenden Umgang mit Forschungsdaten](rdm/empfehlungen_dmp.md).  
+*#GreenDH: Ökologische Herausforderungen und digitale Geschichtswissenschaft*  
+Wed. 27.11.2024, 17:00-18:30 CET, online  
+[Weitere Informationen](https://www.hsozkult.de/event/id/event-150444)  
 
 ## Bisherige Aktivitäten / Recent Activities
+
+*Writing Sprint zum grünen Forschungsdatenmanagementplan*   
+Frühjahr 2024  
+Hier findet sich der aktuelle Stand der [Empfehlungen zum ressourcenschonenden Umgang mit Forschungsdaten](rdm/empfehlungen_dmp.md). 
 
 *Vortrag* (hybrid)  
 [Digital Methods Porn, oder: Warum die Welt ohne nachnutzbare Workflows nicht zu retten ist](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2024/n/digital-methods-porn-oder-warum-die-welt-ohne-nachnutzbare-workflows-nicht-zu-retten-ist-188645/)  
