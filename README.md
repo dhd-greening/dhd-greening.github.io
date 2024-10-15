@@ -2,6 +2,10 @@
 
 ## Aktuelles / News
 
+*„Nachhaltige“ Daten? Forschungsdatenmanagement in den DH in Zeiten des Klimawandels*  
+Tue. 15.10.2024, 18:30-20:00 CET, AdW Mainz  
+[Weitere Informationen](https://iss.adwmainz.net/)  
+
 *#GreenDH: Ökologische Herausforderungen und digitale Geschichtswissenschaft*  
 Wed. 27.11.2024, 17:00-18:30 CET, online  
 [Weitere Informationen](https://www.hsozkult.de/event/id/event-150444)  
