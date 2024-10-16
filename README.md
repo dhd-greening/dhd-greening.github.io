@@ -1,16 +1,19 @@
 <img style="float:right; width:25%; margin-left:1em; margin-bottom:0.5em" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
 
 ## Aktuelles / News
-
-*„Nachhaltige“ Daten? Forschungsdatenmanagement in den DH in Zeiten des Klimawandels*  
-Tue. 15.10.2024, 18:30-20:00 CET, AdW Mainz  
-[Weitere Informationen](https://iss.adwmainz.net/)  
+ 
 
 *#GreenDH: Ökologische Herausforderungen und digitale Geschichtswissenschaft*  
 Wed. 27.11.2024, 17:00-18:30 CET, online  
 [Weitere Informationen](https://www.hsozkult.de/event/id/event-150444)  
 
 ## Bisherige Aktivitäten / Recent Activities
+
+*Vortrag*   
+„Nachhaltige“ Daten? Forschungsdatenmanagement in den DH in Zeiten des Klimawandels  
+Lisa Rosendahl  
+AdW Mainz, Keynote im Rahmen der [International Summer School (ISS) 2024 Mainz](https://iss.adwmainz.net/)  
+Tue. 15.10.2024, 18:30-20:00 CET 
 
 *Writing Sprint zum grünen Forschungsdatenmanagementplan*   
 Frühjahr 2024  
@@ -23,7 +26,7 @@ Universität Rostock, Ringvorlesung [Digital Humanities im Fokus](https://www.ge
 Thu 04.07.2024, 17:00-19:00 CET [Zoom-Link](https://uni-rostock-de.zoom.us/j/63047472241?pwd=MENUUFdma3Q3K0lGUDBzeWdEbGNPQT09)
 
 *Workshop*  
-[Der Weg zum grünen Forschungsdatenmanagementplan](https://dhd2024.dig-hum.de/w2a-der-weg-zum-grunen-forschungsdatenmanagementplan/)  
+[Der Weg zum grünen Forschungsdatenmanagementplan](https://doi.org/10.5281/zenodo.10698392)  
 Universität Passau, [DHd-Konferenz 2024](https://dhd2024.dig-hum.de/), Workshop #2a  
 Tue 27 February 2024, 9:00-17:30 CET
 
