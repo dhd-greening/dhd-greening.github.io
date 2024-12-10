@@ -3,11 +3,17 @@
 ## Aktuelles / News
  
 
-*#GreenDH: Ökologische Herausforderungen und digitale Geschichtswissenschaft*  
-Wed. 27.11.2024, 17:00-18:30 CET, online  
-[Weitere Informationen](https://www.hsozkult.de/event/id/event-150444)  
+*Greening DH – Herausforderungen und Perspektiven eines verantwortungsvollen Umgangs mit künstlicher Intelligenz*  
+Lisa Rosendahl im Forum der Cultural Research Data Academy   
+Thu./Fr. 06./07.02.2025, KreativInstitut.OWL und online  
+[Weitere Informationen](https://nfdi4culture.de/events/crda-forum-2025.html) 
 
 ## Bisherige Aktivitäten / Recent Activities
+
+*Podiumsdiskussion*   
+[#GreenDH: Ökologische Herausforderungen und digitale Geschichtswissenschaft](https://www.hsozkult.de/event/id/event-150444)  
+Anne Baillot mit Anna-Katharina Woebse und Estrid Sørensen, moderiert von Mareike König
+Wed. 27.11.2024, 17:00-18:30 CET, online
 
 *Vortrag*   
 „Nachhaltige“ Daten? Forschungsdatenmanagement in den DH in Zeiten des Klimawandels  
