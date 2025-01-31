@@ -98,11 +98,8 @@ Torsten Roeder (dh[at]torstenroeder.de)
 Mailinglist:  
 [http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh](http://lists.digitalhumanities.org/mailman/listinfo/dhd-ag-greening-dh)
 
-Rocket Chat:  
-[https://chat.gwdg.de/invite/64agoD](https://chat.gwdg.de/invite/64agoD)
-
-Twitter-Hashtag: #GreeningDH  
-[https://twitter.com/hashtag/greeningDH?f=live](https://twitter.com/hashtag/greeningDH?f=live)
+Matrix Chat:  
+[https://to.matrix.gwdg.de/#/!IAvNLSVRNkOBVopQJz:academiccloud.de](https://to.matrix.gwdg.de/#/!IAvNLSVRNkOBVopQJz:academiccloud.de)
 
 Mastodon-Hashtag: #GreeningDH  
 [https://fedihum.org/tags/greeningdh](https://fedihum.org/tags/greeningdh)
