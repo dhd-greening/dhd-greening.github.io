@@ -2,11 +2,10 @@
 
 ## Aktuelles / News
  
-
-*Greening DH – Herausforderungen und Perspektiven eines verantwortungsvollen Umgangs mit künstlicher Intelligenz*  
-Lisa Rosendahl im Forum der Cultural Research Data Academy   
-Thu./Fr. 06./07.02.2025, KreativInstitut.OWL und online  
-[Weitere Informationen](https://nfdi4culture.de/events/crda-forum-2025.html) 
+*Critical AI in der Digitalen Editorik*  
+Panel im Rahmen der Jahrestagung des DHd  
+Wed. 05.03.2025, 14–15:30 CET, Universität Bielefeld  
+[Abstract](https://doi.org/10.5281/zenodo.14943126), [Literaturempfehlungen](https://dhd-greening.github.io/ki/literaturempfehlungen_ki.pdf)  
 
 ## Bisherige Aktivitäten / Recent Activities
 
