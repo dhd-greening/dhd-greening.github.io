@@ -1,5 +1,7 @@
 <button><a href="javascript:(function(){window.hypothesisConfig=function(){return{showHighlights:true,appType:'bookmarklet'};};var d=document,s=d.createElement('script');s.setAttribute('src','https://hypothes.is/embed.js');d.body.appendChild(s)})();">Dieses Dokument mit hypothes.is annotieren</a></button>
 
+# Die überarbeitete Fassung ist jetzt hier bei Zenodo zugänglich: [https://zenodo.org/records/15288095].
+
 # Empfehlungen der AG Greening DH zum ressourcenschonenden Umgang mit Forschungsdaten
 
 Ein strategisches und umsichtiges Forschungsdatenmanagement (FDM) gehört zum zentralen Kern der guten wissenschaftlichen Praxis [Deutsche Forschungsgemeinschaft, Leitlinien zur Sicherung guter wissenschaftlicher Praxis, Bonn 2019. DOI:10.5281/zenodo.3923601](https://zenodo.org/records/6472827). Es dient dem planvollen und methodischen Erfassen, Aufbereiten, Sichern und Bereitstellen von projektbezogenen Daten zur transparenten Nachvollziehbarkeit von Forschungsergebnissen und sichert deren Nachnutzung. Dadurch werden ressourcenintensive Doppelarbeiten vermieden. Das FDM ist damit nicht nur forschungspolitisch gewollt und ohnehin Voraussetzung für jegliche Förderung, sondern zugleich verantwortungsvolles Handeln im Umgang mit Ressourcen. Allerdings ist das FDM selbst ressourcenintensiv, so dass eine sorgfältige Abwägung zwischen den genannten Zielen und dem dafür erforderlichen Ressourceneinsatz erforderlich ist. 
