@@ -1,6 +1,6 @@
 <button><a href="javascript:(function(){window.hypothesisConfig=function(){return{showHighlights:true,appType:'bookmarklet'};};var d=document,s=d.createElement('script');s.setAttribute('src','https://hypothes.is/embed.js');d.body.appendChild(s)})();">Dieses Dokument mit hypothes.is annotieren</a></button>
 
-# Die überarbeitete Fassung ist jetzt hier bei Zenodo zugänglich: [https://zenodo.org/records/15288095].
+# Die überarbeitete Fassung der Empfehlungen ist jetzt hier bei Zenodo zugänglich: [https://zenodo.org/records/15288095].
 
 # Empfehlungen der AG Greening DH zum ressourcenschonenden Umgang mit Forschungsdaten
 
