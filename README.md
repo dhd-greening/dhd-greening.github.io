@@ -2,9 +2,13 @@
 
 ## Aktuelles / News
  
+*Dark Sides of DH: Greening DH*
+Panel im Rahmen des Hengstberger-Symposiums »Disciplinary Transformations? Humanities Impact on Reshaping the Digital Humanities«
+Fri 13.06.2025, 9-10:30 CET, IWF Heidelberg 
+ 
 *Critical AI in der Digitalen Editorik*  
 Panel im Rahmen der Jahrestagung des DHd  
-Wed. 05.03.2025, 14–15:30 CET, Universität Bielefeld  
+Wed 05.03.2025, 14–15:30 CET, Universität Bielefeld  
 [Abstract](https://doi.org/10.5281/zenodo.14943126), [Literaturempfehlungen](https://dhd-greening.github.io/ki/literaturempfehlungen_ki.pdf)  
 
 ## Bisherige Aktivitäten / Recent Activities
