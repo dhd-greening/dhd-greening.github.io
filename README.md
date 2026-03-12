@@ -1,8 +1,14 @@
 <img style="float:right; width:25%; margin-left:1em; margin-bottom:0.5em" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
 
 ## Aktuelles / News
+
+
+## Bisherige Aktivitäten / Recent Activities
+*The Dark Sides of DH revisited: From Utopia to Reality*  
+Panel im Rahmen der Jahrestagung des DHd
+Fri 27.02.2026, 11-12:30 CET, Universität Wien
  
-*Dark Sides of DH: Greening DH*
+*Dark Sides of DH: Greening DH*  
 Panel im Rahmen des Hengstberger-Symposiums »Disciplinary Transformations? Humanities Impact on Reshaping the Digital Humanities«
 Fri 13.06.2025, 9-10:30 CET, IWF Heidelberg 
  
@@ -10,8 +16,6 @@ Fri 13.06.2025, 9-10:30 CET, IWF Heidelberg
 Panel im Rahmen der Jahrestagung des DHd  
 Wed 05.03.2025, 14–15:30 CET, Universität Bielefeld  
 [Abstract](https://doi.org/10.5281/zenodo.14943126), [Literaturempfehlungen](https://dhd-greening.github.io/ki/literaturempfehlungen_ki.pdf)  
-
-## Bisherige Aktivitäten / Recent Activities
 
 *Podiumsdiskussion*   
 [#GreenDH: Ökologische Herausforderungen und digitale Geschichtswissenschaft](https://www.hsozkult.de/event/id/event-150444)  
@@ -94,7 +98,7 @@ Greening DH ist eine Arbeitsgruppe des Verbands »Digital Humanities im deutschs
 ## Convenors
 
 Anne Baillot (anne.baillot[at]univ-lemans.fr)  
-Torsten Roeder (dh[at]torstenroeder.de)
+Lisa Rosendahl (rosendahl[at]beethovens-werkstatt.de)
 
 ## Mail & Chat & Social Media
 
