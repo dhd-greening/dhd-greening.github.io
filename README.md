@@ -97,7 +97,7 @@ Greening DH ist eine Arbeitsgruppe des Verbands »Digital Humanities im deutschs
 
 ## Convenors
 
-Anne Baillot (anne.baillot[at]univ-lemans.fr)  
+Anne Baillot (anne.baillot[at]dariah.eu)  
 Lisa Rosendahl (rosendahl[at]beethovens-werkstatt.de)
 
 ## Mail & Chat & Social Media
