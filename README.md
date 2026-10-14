@@ -1,7 +1,11 @@
 <img style="float:right; width:25%; margin-left:1em; margin-bottom:0.5em" src="images/Logo_DHd-AG_Greening-DH_transparent.png" alt="Logo der DHd-AG »Greening DH«"/>
 
 ## Aktuelles / News
+*Recommendations from the Greening DH Working Group on the Resource-Efficient Management of Research Data*  
+English version of our recommendations on [Zenodo](https://doi.org/10.5281/zenodo.23012335)
 
+*Empfehlungen der AG Greening DH zum ressourcenschonenden Umgang mit Forschungsdaten*  
+Aktualisierte Version der Empfehlungen auf [Zenodo](https://doi.org/10.5281/zenodo.22771400)
 
 ## Bisherige Aktivitäten / Recent Activities
 *The Dark Sides of DH revisited: From Utopia to Reality*  
